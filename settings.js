@@ -6,15 +6,15 @@ global.lolhuman = 'XTRAM' // Gak Usah Diganti Ini Udah Free
 global.dryan = 'dryanbot'
 global.zenz = 'akame-chan>_<'
 /*=======================================*/
-global.namabot = '𝑵𝒂𝒊𝒔𝒂-𝑴𝑫'
+global.namabot = 'Rulzie-𝑴𝑫'
 global.namaowner = 'Dryan'
-global.owner = ['6289513081052','6283152457580']
-global.ownernomer = ['6289513081052','6283152457580']
-global.premium = ['6289513081052','6283152457580']
+global.owner = ['6285848651208','6283152457580']
+global.ownernomer = ['6285848651208','6283152457580']
+global.premium = ['6285848651208','6283152457580']
 /*=======================================*/
 global.saweria = ['-']
 global.sessionName = 'session'
-global.email = 'dryanbot24@gmail.com'
+global.email = 'uaruld@gmail.com'
 global.namaweb = 'My Website'
 global.myweb = 'https://joy.link/dryanbot'
 global.region = 'Indonesia'
@@ -22,8 +22,8 @@ global.region = 'Indonesia'
 global.github = 'https://github.com/AdrianTzy'
 global.mygc = 'https://chat.whatsapp.com/IbewxIjm5Lr6cIvkUPlXwq'
 global.mytt = 'https://tiktok.com/@dryanbot'
-global.packname = '𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚'
-global.author = '𝑵𝒂𝒊𝒔𝒂-𝑴𝑫\n𝑫𝒓𝒚𝒂𝒏-𝑴𝑫'
+global.packname = 'Rulzie𝑩𝒚'
+global.author = 'Rulz-𝑴𝑫\n𝑫𝒓𝒚𝒂𝒏-𝑴𝑫'
 /*=======================================*/
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -45,14 +45,14 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 50,
+    free: 10,
 }
 
 global.thumb = fs.readFileSync('./media/image/naisa.jpg')
 global.naisa = { url: 'https://telegra.ph/file/365931bc5e09418cef3dc.mp4' }
-global.botname = '𝖭𝖠𝖨𝖲𝖠-𝖬𝖣 𝖵2'
-global.akulaku = '𝙱𝙾𝚃 𝙱𝚢 𝙳𝚛𝚢𝚊𝚗-𝙼𝙳'
-global.ttname = '𝚃𝚒𝚔𝚝𝚘𝚔 𝙳𝚛𝚢𝚊𝚗𝚋𝚘𝚝'
+global.botname = 'RULZIE-𝖬𝖣 𝖵2'
+global.akulaku = '𝙱𝙾𝚃 𝙱𝚢 Arul-𝙼𝙳'
+global.ttname = '𝚃𝚒𝚔𝚝𝚘𝚔 Rullbot'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
